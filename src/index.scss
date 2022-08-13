@@ -4,8 +4,8 @@ body {
   height: 100vh;
   box-sizing: border-box;
   margin: 0;
-  color: $color-main-light;
-  background-color: $color-body;
+  // color: $color-main-light;
+  // background-color: $color-body;
   text-align: center;
 
   font-family: $font-main;
@@ -65,7 +65,7 @@ form {
   max-width: 500px;
   margin: 0 auto;
   padding: 2 * $spacing-major;
-  background-color: $color-background-form;
+  background-color: $color-background-primary;
   font-weight: $font-weight-major;
 }
 

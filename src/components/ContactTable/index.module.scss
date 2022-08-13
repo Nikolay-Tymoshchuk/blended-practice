@@ -1,0 +1,10 @@
+@import 'variables';
+
+.table {
+  border: 1px solid $color-text-additional;
+  width: 100%;
+}
+
+.thead {
+  background-color: $color-additional;
+}
